@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="" />
+    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="solution for LeetCode 4">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,10 +41,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev"
+    "git-widget-placeholder": "LeetCode__5"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "DBN-SQL"
+    ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/LeetCode/SQL_Problems/Easy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LeetCode_5">
     <configuration name="LeetCode_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Java_Problems.Medium.LeetCode_2" />
       <module name="LeetCode" />
@@ -55,8 +68,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeetCode_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Java_Problems.LeetCode_5" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Java_Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode_5" />
+        <item itemvalue="Application.LeetCode_2" />
+        <item itemvalue="Application.LeetCode_2" />
+        <item itemvalue="Application.LeetCode_2" />
         <item itemvalue="Application.LeetCode_2" />
       </list>
     </recent_temporary>
@@ -118,7 +148,79 @@
       <option name="project" value="LOCAL" />
       <updated>1731519193829</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="code refactor">
+      <option name="closed" value="true" />
+      <created>1731520366108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731520366108</updated>
+    </task>
+    <task id="LOCAL-00008" summary="solution for 1378">
+      <option name="closed" value="true" />
+      <created>1731520844789</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731520844789</updated>
+    </task>
+    <task id="LOCAL-00009" summary="solution for 1068">
+      <option name="closed" value="true" />
+      <created>1731520985707</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731520985707</updated>
+    </task>
+    <task id="LOCAL-00010" summary="solution for LeetCode 1">
+      <option name="closed" value="true" />
+      <created>1731523202565</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731523202565</updated>
+    </task>
+    <task id="LOCAL-00011" summary="solution for LeetCode 2">
+      <option name="closed" value="true" />
+      <created>1731523360277</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731523360277</updated>
+    </task>
+    <task id="LOCAL-00012" summary="solution for LeetCode 3">
+      <option name="closed" value="true" />
+      <created>1731523674482</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731523674482</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added link to LeetCode_1">
+      <option name="closed" value="true" />
+      <created>1731523719675</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731523719675</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added link to LeetCode_2">
+      <option name="closed" value="true" />
+      <created>1731523771110</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731523771110</updated>
+    </task>
+    <task id="LOCAL-00015" summary="solution for LeetCode 4">
+      <option name="closed" value="true" />
+      <created>1731524158792</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731524158792</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +228,14 @@
     <MESSAGE value="solution for Leet Code 2" />
     <MESSAGE value="added ordering by id" />
     <MESSAGE value="code refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="code refactor" />
+    <MESSAGE value="solution for 1378" />
+    <MESSAGE value="solution for 1068" />
+    <MESSAGE value="solution for LeetCode 1" />
+    <MESSAGE value="solution for LeetCode 2" />
+    <MESSAGE value="solution for LeetCode 3" />
+    <MESSAGE value="added link to LeetCode_1" />
+    <MESSAGE value="added link to LeetCode_2" />
+    <MESSAGE value="solution for LeetCode 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution for LeetCode 4" />
   </component>
 </project>
