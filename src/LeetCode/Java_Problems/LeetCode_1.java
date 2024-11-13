@@ -1,5 +1,7 @@
 package LeetCode.Java_Problems;
 
+//LINK: https://leetcode.com/problems/two-sum/description/
+
 public class LeetCode_1 {
 	public static int[] twoSum(int[] nums, int target){
 		int firstIndex = 0;
