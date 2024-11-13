@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/Medium/LeetCode_2.java" afterDir="false" />
-    </list>
+    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LeetCode__2"
+    "git-widget-placeholder": "dev"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,6 +70,62 @@
       <option name="presentableId" value="Default" />
       <updated>1731425513905</updated>
     </task>
+    <task id="LOCAL-00001" summary="created dev branch">
+      <option name="closed" value="true" />
+      <created>1731429124845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731429124845</updated>
+    </task>
+    <task id="LOCAL-00002" summary="solution for Leet Code 2">
+      <option name="closed" value="true" />
+      <created>1731429275426</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731429275427</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added ordering by id">
+      <option name="closed" value="true" />
+      <created>1731518620572</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731518620572</updated>
+    </task>
+    <task id="LOCAL-00004" summary="code refactor">
+      <option name="closed" value="true" />
+      <created>1731518800188</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731518800188</updated>
+    </task>
+    <task id="LOCAL-00005" summary="code refactor">
+      <option name="closed" value="true" />
+      <created>1731519090529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731519090529</updated>
+    </task>
+    <task id="LOCAL-00006" summary="code refactor">
+      <option name="closed" value="true" />
+      <created>1731519193829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731519193829</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created dev branch" />
+    <MESSAGE value="solution for Leet Code 2" />
+    <MESSAGE value="added ordering by id" />
+    <MESSAGE value="code refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="code refactor" />
   </component>
 </project>
