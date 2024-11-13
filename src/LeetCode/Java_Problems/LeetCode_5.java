@@ -1,5 +1,7 @@
 package LeetCode.Java_Problems;
 
+//LINK: https://leetcode.com/problems/longest-palindromic-substring/submissions/1451971683/
+
 public class LeetCode_5 {
 	public static String longestPalindrome(String s) {
 		if (s.length() < 2) {
