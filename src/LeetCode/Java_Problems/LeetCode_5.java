@@ -9,7 +9,8 @@ public class LeetCode_5 {
 		for (int i = 1; i < s.length(); i++) {
 			String oddLenPalindrome = checkForPalindrome(s, i, i);
 			String evenLenPalindrome = checkForPalindrome(s, i - 1, i);
-			String current = oddLenPalindrome.length() > evenLenPalindrome.length() ? oddLenPalindrome : evenLenPalindrome;
+			String current = oddLenPalindrome.length() > evenLenPalindrome.length() ?
+					oddLenPalindrome : evenLenPalindrome;
 			if (current.length() > result.length()) {
 				result = current;
 			}
