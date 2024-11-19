@@ -3,10 +3,11 @@ package LeetCode.Java_Problems;
 //LINK: https://leetcode.com/problems/longest-palindromic-substring/submissions/1451971683/
 
 public class LeetCode_5 {
-	public static String longestPalindrome(String s) {
+	public static String longestPalindrome(String s){
 		if (s.length() < 2) {
 			return s;
 		}
+
 		String result = "";
 		for (int i = 1; i < s.length(); i++) {
 			String oddLenPalindrome = checkForPalindrome(s, i, i);
@@ -17,8 +18,10 @@ public class LeetCode_5 {
 				result = current;
 			}
 		}
+
 		return result;
 	}
+
 	private static String checkForPalindrome(String s, int leftPointer, int rightPointer){
 		while (s.charAt(leftPointer) == s.charAt(rightPointer)) {
 			leftPointer--;
@@ -27,6 +30,7 @@ public class LeetCode_5 {
 				break;
 			}
 		}
+
 		return s.substring(leftPointer + 1, rightPointer);
 	}
 }
