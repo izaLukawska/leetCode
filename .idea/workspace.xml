@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="solution for Leet Code 9">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="solution for Leet Code 12">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +40,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LeetCode__13"
+    "git-widget-placeholder": "LeetCode__14"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LeetCode_13">
-    <configuration name="LeetCode_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Java_Problems.LeetCode_13" />
+  <component name="RunManager" selected="Application.LeetCode_14">
+    <configuration name="LeetCode_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Java_Problems.LeetCode_14" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -73,9 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode_13" />
-        <item itemvalue="Application.LeetCode_2" />
-        <item itemvalue="Application.LeetCode_2" />
+        <item itemvalue="Application.LeetCode_14" />
         <item itemvalue="Application.LeetCode_2" />
         <item itemvalue="Application.LeetCode_2" />
       </list>
@@ -138,31 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731519193829</updated>
     </task>
-    <task id="LOCAL-00007" summary="solution for Leet Code 7">
+    <task id="LOCAL-00007" summary="solution for Leet Code 12">
       <option name="closed" value="true" />
-      <created>1731596688845</created>
+      <created>1731683685143</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1731596688845</updated>
+      <updated>1731683685143</updated>
     </task>
-    <task id="LOCAL-00008" summary="solution for Leet Code 8">
-      <option name="closed" value="true" />
-      <created>1731597767328</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1731597767328</updated>
-    </task>
-    <task id="LOCAL-00009" summary="solution for Leet Code 9">
-      <option name="closed" value="true" />
-      <created>1731597897904</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1731597897905</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,9 +151,7 @@
     <MESSAGE value="solution for Leet Code 2" />
     <MESSAGE value="added ordering by id" />
     <MESSAGE value="code refactor" />
-    <MESSAGE value="solution for Leet Code 7" />
-    <MESSAGE value="solution for Leet Code 8" />
-    <MESSAGE value="solution for Leet Code 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution for Leet Code 9" />
+    <MESSAGE value="solution for Leet Code 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution for Leet Code 12" />
   </component>
 </project>
