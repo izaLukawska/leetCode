@@ -18,9 +18,10 @@ public class LeetCode_24 {
 			point.next = swap2;
 			point = swap1;
 		}
+
 		return result.next;
 	}
-	public static class ListNode {
+	private static class ListNode {
 		int val;
 		ListNode next;
 
