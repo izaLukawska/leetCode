@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="" />
+    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="solution for LeetCode 24" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -38,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev"
+    "git-widget-placeholder": "LeetCode__24"
   }
 }]]></component>
   <component name="RunManager">
@@ -57,6 +58,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode_2" />
+        <item itemvalue="Application.LeetCode_2" />
+        <item itemvalue="Application.LeetCode_2" />
+        <item itemvalue="Application.LeetCode_2" />
         <item itemvalue="Application.LeetCode_2" />
       </list>
     </recent_temporary>
@@ -118,7 +123,63 @@
       <option name="project" value="LOCAL" />
       <updated>1731519193829</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="solution for LeetCode 15">
+      <option name="closed" value="true" />
+      <created>1731684500828</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731684500828</updated>
+    </task>
+    <task id="LOCAL-00008" summary="solution for LeetCode 16">
+      <option name="closed" value="true" />
+      <created>1731690374790</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731690374790</updated>
+    </task>
+    <task id="LOCAL-00009" summary="solution for LeetCode 17">
+      <option name="closed" value="true" />
+      <created>1731691061351</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731691061351</updated>
+    </task>
+    <task id="LOCAL-00010" summary="solution for LeetCode 19">
+      <option name="closed" value="true" />
+      <created>1731691370330</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731691370330</updated>
+    </task>
+    <task id="LOCAL-00011" summary="solution for LeetCode 21">
+      <option name="closed" value="true" />
+      <created>1731692084365</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731692084365</updated>
+    </task>
+    <task id="LOCAL-00012" summary="solution for LeetCode 23">
+      <option name="closed" value="true" />
+      <created>1731694746252</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731694746252</updated>
+    </task>
+    <task id="LOCAL-00013" summary="solution for LeetCode 24">
+      <option name="closed" value="true" />
+      <created>1731694904498</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731694904498</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +187,13 @@
     <MESSAGE value="solution for Leet Code 2" />
     <MESSAGE value="added ordering by id" />
     <MESSAGE value="code refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="code refactor" />
+    <MESSAGE value="solution for LeetCode 15" />
+    <MESSAGE value="solution for LeetCode 16" />
+    <MESSAGE value="solution for LeetCode 17" />
+    <MESSAGE value="solution for LeetCode 19" />
+    <MESSAGE value="solution for LeetCode 21" />
+    <MESSAGE value="solution for LeetCode 23" />
+    <MESSAGE value="solution for LeetCode 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution for LeetCode 24" />
   </component>
 </project>
