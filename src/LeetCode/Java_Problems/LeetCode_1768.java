@@ -12,8 +12,7 @@ public class LeetCode_1768 {
 		}
 		if (word1.length() <= word2.length()) {
 			result.append(word2.substring(len));
-		}
-		else {
+		} else {
 			result.append(word1.substring(len));
 		}
 		return result.toString();
