@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="solution for Leet Code 12">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_14.java" afterDir="false" />
-    </list>
+    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="solution for LeetCode 29" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="LeetCode_29" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LeetCode__14"
+    "git-widget-placeholder": "dev"
   }
 }]]></component>
   <component name="RunManager" selected="Application.LeetCode_14">
@@ -72,6 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode_14" />
+        <item itemvalue="Application.LeetCode_2" />
         <item itemvalue="Application.LeetCode_14" />
         <item itemvalue="Application.LeetCode_2" />
         <item itemvalue="Application.LeetCode_2" />
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731683685143</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="solution for LeetCode 29">
+      <option name="closed" value="true" />
+      <created>1732450992595</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732450992595</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +160,7 @@
     <MESSAGE value="added ordering by id" />
     <MESSAGE value="code refactor" />
     <MESSAGE value="solution for Leet Code 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution for Leet Code 12" />
+    <MESSAGE value="solution for LeetCode 29" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution for LeetCode 29" />
   </component>
 </project>
