@@ -13,10 +13,12 @@ public class LeetCode_17 {
 		if (digits.isEmpty()) {
 			return new ArrayList<>();
 		}
+
 		List<String> result = phoneKeyboard().get(numbers[0]);
 		for(int i = 1; i < numbers.length; i++){
 			result = twoNumbers(result, phoneKeyboard().get(numbers[i]));
 		}
+
 		return result;
 	}
 	private static List<String> twoNumbers(List<String> l1, List<String> l2){
@@ -26,6 +28,7 @@ public class LeetCode_17 {
 				result.add(s1 + s2);
 			}
 		}
+
 		return result;
 	}
 
