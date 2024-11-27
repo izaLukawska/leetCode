@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="solution for Leet Code 12">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="Solution for LeetCode 35">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_58.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +40,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LeetCode__290"
+    "git-widget-placeholder": "LeetCode__58",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LeetCode_290">
+  <component name="RunManager" selected="Application.LeetCode_58">
     <configuration name="LeetCode_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Java_Problems.LeetCode_14" />
       <module name="LeetCode" />
@@ -85,13 +84,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeetCode_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Java_Problems.LeetCode_58" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Java_Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode_58" />
         <item itemvalue="Application.LeetCode_290" />
         <item itemvalue="Application.LeetCode_14" />
         <item itemvalue="Application.LeetCode_2" />
-        <item itemvalue="Application.LeetCode_14" />
-        <item itemvalue="Application.LeetCode_2" />
+        <item itemvalue="Application.LeetCode_290" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +172,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731683685143</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Solution for LeetCode 34">
+      <option name="closed" value="true" />
+      <created>1732707454420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732707454420</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Solution for LeetCode 35">
+      <option name="closed" value="true" />
+      <created>1732708951026</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732708951026</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +197,23 @@
     <MESSAGE value="added ordering by id" />
     <MESSAGE value="code refactor" />
     <MESSAGE value="solution for Leet Code 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution for Leet Code 12" />
+    <MESSAGE value="Solution for LeetCode 34" />
+    <MESSAGE value="Solution for LeetCode 35" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution for LeetCode 35" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_19.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
