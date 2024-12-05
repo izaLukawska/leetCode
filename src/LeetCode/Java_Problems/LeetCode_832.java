@@ -20,6 +20,7 @@ public class LeetCode_832 {
 				}
 			}
 		}
+
 		return result;
 	}
 }
