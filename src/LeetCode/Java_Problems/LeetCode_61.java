@@ -23,7 +23,7 @@ public class LeetCode_61 {
 		return result;
 	}
 
-	private static ListNode findNewTail(ListNode head, int len, int k) {
+	private ListNode findNewTail(ListNode head, int len, int k) {
 		ListNode newTail = head;
 		for (int i = 1; i < len - k % len; i++) {
 			newTail = newTail.next;
