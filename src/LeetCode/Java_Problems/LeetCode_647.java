@@ -1,5 +1,7 @@
 package LeetCode.Java_Problems;
 
+//LINK: https://leetcode.com/problems/palindromic-substrings/
+
 public class LeetCode_647 {
 	public int countSubstrings(String s) {
 		int count = 0;
