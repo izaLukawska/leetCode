@@ -1,5 +1,7 @@
 package LeetCode.Java_Problems;
 
+//LINK: https://leetcode.com/problems/palindrome-linked-list/
+
 public class LeetCode_234 {
 	public boolean isPalindrome(ListNode head) {
 		if (head == null || head.next == null) {
