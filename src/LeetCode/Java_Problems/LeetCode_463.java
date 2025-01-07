@@ -1,5 +1,7 @@
 package LeetCode.Java_Problems;
 
+//LINK: https://leetcode.com/problems/island-perimeter/description/
+
 public class LeetCode_463 {
 	public int islandPerimeter(int[][] grid) {
 		int islandCount = 0;
@@ -8,15 +10,24 @@ public class LeetCode_463 {
 			for (int j = 0; j < grid[i].length; j++) {
 				if (grid[i][j] == 1) {
 					islandCount++;
-					if (i - 1 >= 0 && grid[i - 1][j] == 1) {
+					if (checkPrevRow(grid, i, j)) {
 						neighbourCount++;
 					}
-					if (j - 1 >= 0 && grid[i][j - 1] == 1) {
+					if (checkPrevColumn(grid, i, j)) {
 						neighbourCount++;
 					}
 				}
 			}
 		}
+
 		return islandCount * 4 - neighbourCount * 2;
+	}
+
+	private boolean checkPrevRow(int[][] grid, int row, int column) {
+		return row - 1 >= 0 && grid[row - 1][column] == 1;
+	}
+
+	private boolean checkPrevColumn(int[][] grid, int row, int column) {
+		return column - 1 >= 0 && grid[row][column - 1] == 1;
 	}
 }
