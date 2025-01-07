@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="Solution for LeetCode 35">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_49.java" afterDir="false" />
+    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="code refactor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_463.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_463.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;izaLukawska&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/izaLukawska/LeetCode.git&quot;,
+    &quot;accountId&quot;: &quot;c19841cf-ba9f-44c2-a792-08cbd238774c&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -45,7 +57,7 @@
     "Application.LeetCode_49.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LeetCode__49",
+    "git-widget-placeholder": "LeetCode__463",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
@@ -117,9 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode_49" />
-        <item itemvalue="Application.LeetCode_58" />
         <item itemvalue="Application.LeetCode_290" />
+        <item itemvalue="Application.LeetCode_58" />
+        <item itemvalue="Application.LeetCode_49" />
         <item itemvalue="Application.LeetCode_14" />
         <item itemvalue="Application.LeetCode_2" />
       </list>
@@ -206,18 +218,26 @@
       <option name="project" value="LOCAL" />
       <updated>1732708951026</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="code refactor">
+      <option name="closed" value="true" />
+      <created>1736258415757</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736258415757</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created dev branch" />
     <MESSAGE value="solution for Leet Code 2" />
     <MESSAGE value="added ordering by id" />
-    <MESSAGE value="code refactor" />
     <MESSAGE value="solution for Leet Code 12" />
     <MESSAGE value="Solution for LeetCode 34" />
     <MESSAGE value="Solution for LeetCode 35" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution for LeetCode 35" />
+    <MESSAGE value="code refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="code refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
