@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="Solution for LeetCode 35">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_49.java" afterDir="false" />
+    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="Solution for LeetCode 409">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_3386.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +23,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="LeetCode_3386" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "izaLukawska"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/izaLukawska/LeetCode.git",
+    "accountId": "c19841cf-ba9f-44c2-a792-08cbd238774c"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -42,10 +54,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LeetCode_3386.executor": "Run",
     "Application.LeetCode_49.executor": "Run",
+    "Application.LeetCode_500.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LeetCode__49",
+    "git-widget-placeholder": "dev",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
@@ -117,9 +131,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode_49" />
-        <item itemvalue="Application.LeetCode_58" />
         <item itemvalue="Application.LeetCode_290" />
+        <item itemvalue="Application.LeetCode_58" />
+        <item itemvalue="Application.LeetCode_49" />
         <item itemvalue="Application.LeetCode_14" />
         <item itemvalue="Application.LeetCode_2" />
       </list>
