@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="Solution for LeetCode 35">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Java_Problems/LeetCode_49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="09f882f1-4d2b-4cb3-91b5-993680e680ed" name="Changes" comment="Solution for LeetCode 35" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="LeetCode_463" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +42,7 @@
     "Application.LeetCode_49.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LeetCode__49",
+    "git-widget-placeholder": "dev",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
@@ -117,9 +114,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode_49" />
-        <item itemvalue="Application.LeetCode_58" />
         <item itemvalue="Application.LeetCode_290" />
+        <item itemvalue="Application.LeetCode_58" />
+        <item itemvalue="Application.LeetCode_49" />
         <item itemvalue="Application.LeetCode_14" />
         <item itemvalue="Application.LeetCode_2" />
       </list>
@@ -208,6 +205,17 @@
     </task>
     <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created dev branch" />
