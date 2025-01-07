@@ -25,7 +25,7 @@ public class LeetCode_234 {
 	private ListNode reverseAndCopy(ListNode head) {
 		ListNode newHead = null;
 		while (head != null) {
-			ListNode newNode = new ListNode(head.val); // Create a new node
+			ListNode newNode = new ListNode(head.val);
 			newNode.next = newHead;
 			newHead = newNode;
 			head = head.next;
