@@ -11,11 +11,10 @@ public class LeetCode_217 {
 	public boolean containsDuplicate(int[] nums) {
 		Set<Integer> numsSet = new HashSet<>();
 		for (int num : nums) {
-			if (!numsSet.contains(num)) {
-				numsSet.add(num);
-			} else {
+			if (numsSet.contains(num)) {
 				return true;
 			}
+			numsSet.add(num);
 		}
 
 		return false;
