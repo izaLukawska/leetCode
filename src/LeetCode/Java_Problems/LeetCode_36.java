@@ -21,11 +21,10 @@ public class LeetCode_36 {
 				}
 				if (checkCurrentChar(rows[i], columns[j], subBoxes[subBox], curr)) {
 					return false;
-				} else {
-					rows[i].add(curr);
-					columns[j].add(curr);
-					subBoxes[subBox].add(curr);
 				}
+				rows[i].add(curr);
+				columns[j].add(curr);
+				subBoxes[subBox].add(curr);
 			}
 		}
 
