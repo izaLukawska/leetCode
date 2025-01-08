@@ -1,12 +1,12 @@
 package LeetCode.Java_Problems;
 
-//LINK: https://leetcode.com/problemset/?page=3
+//LINK: https://leetcode.com/problems/pascals-triangle/description/
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class LeetCode_118 {
-	public List<List<Integer>> generate(int numRows) {
+	public List<List<Integer>> generatePascalsTriangle(int numRows) {
 		if (numRows == 0) {
 			return new ArrayList<>();
 		}
