@@ -8,7 +8,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class LeetCode_409 {
-	public static int longestPalindrome(String s) {
+	public int getLongestPalindromeLength(String s) {
 		int len = 0;
 		boolean isOdd = false;
 		for (int count : charCount(s)) {
@@ -22,7 +22,7 @@ public class LeetCode_409 {
 		return isOdd ? len + 1 : len;
 	}
 
-	private static List<Integer> charCount(String s){
+	private List<Integer> charCount(String s){
 		return Arrays.stream(s.split(""))
 				.collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
 				.values().stream().mapToInt(Long::intValue).boxed().toList();
