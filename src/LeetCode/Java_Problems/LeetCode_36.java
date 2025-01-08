@@ -22,6 +22,7 @@ public class LeetCode_36 {
 				if (checkCurrentChar(rows[i], columns[j], subBoxes[subBox], curr)) {
 					return false;
 				}
+
 				rows[i].add(curr);
 				columns[j].add(curr);
 				subBoxes[subBox].add(curr);
@@ -32,11 +33,11 @@ public class LeetCode_36 {
 	}
 
 
-	private static boolean checkCurrentChar(Set<Character> row, Set<Character> column, Set<Character> subBox, char c) {
+	private boolean checkCurrentChar(Set<Character> row, Set<Character> column, Set<Character> subBox, char c) {
 		return row.contains(c) || column.contains(c) || subBox.contains(c);
 	}
 
-	private static Set<Character>[] generateArrays(int len) {
+	private Set<Character>[] generateArrays(int len) {
 		Set<Character>[] result = new Set[len];
 		for (int i = 0; i < result.length; i++) {
 			result[i] = new HashSet<>();
